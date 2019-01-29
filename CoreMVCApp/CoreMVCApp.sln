@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreMVCApp", "CoreMVCApp\CoreMVCApp.csproj", "{903ADA4E-1D18-49F2-BBB9-B3DD83CB6DCE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreMVCApp", "CoreMVCApp\CoreMVCApp.csproj", "{A9CC0838-BDB8-4B1A-8F5E-71CD34892C63}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{903ADA4E-1D18-49F2-BBB9-B3DD83CB6DCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{903ADA4E-1D18-49F2-BBB9-B3DD83CB6DCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{903ADA4E-1D18-49F2-BBB9-B3DD83CB6DCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{903ADA4E-1D18-49F2-BBB9-B3DD83CB6DCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9CC0838-BDB8-4B1A-8F5E-71CD34892C63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9CC0838-BDB8-4B1A-8F5E-71CD34892C63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9CC0838-BDB8-4B1A-8F5E-71CD34892C63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9CC0838-BDB8-4B1A-8F5E-71CD34892C63}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
